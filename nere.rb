@@ -3,7 +3,7 @@ class Nere < Formula
   homepage "https://github.com/ninjaaung/nere"
   url "https://github.com/ninjaaung/nere/raw/master/Formula/nere-1.0.2.tar.gz"
   version "1.0.2"
-  sha256 "fc99567ce80e707306a8784c57d6fc10d8c41590a438c1c2caad1f5ee7b3269a"
+  sha256 "0b6a2260a08e6cab0d1b8a583b240da4953652e344b8cf4752df8c898860bc16"
 
   bottle :unneeded
 
