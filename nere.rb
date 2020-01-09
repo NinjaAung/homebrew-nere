@@ -1,7 +1,3 @@
-#!/usr/bin/env ruby
-
-require 'fileutils'
-
 class Nere < Formula
   desc "A command line tool to create, delete and update repositories"
   homepage "https://github.com/ninjaaung/nere"
