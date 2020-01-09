@@ -13,9 +13,6 @@ class Nere < Formula
 
   def install
     bin.install "nere"
-    bin.install "nere.1"
+    man1.install "nere.1"
   end
 end
-
-sleep 10
-FileUtils.mv('/usr/local/bin/nere.1', '/usr/local/share/man/man1/nere.1')
