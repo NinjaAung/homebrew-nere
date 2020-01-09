@@ -15,5 +15,5 @@ class Nere < Formula
     bin.install "nere"
     bin.install "nere.1"
   end
-  FileUtils.mv('/usr/local/bin/nere.1', '/usr/local/share/man/man1/nere.1')
 end
+FileUtils.mv('/usr/local/bin/nere.1', '/usr/local/share/man/man1/nere.1')
