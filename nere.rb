@@ -9,5 +9,6 @@ class Nere < Formula
 
   def install
     bin.install "nere"
+    bin.install "nere.1"
   end
 end
